@@ -1,8 +1,6 @@
 /*/////////////////////////////////////////////////////////////////////////
                           Workshop - #3 (P2)
 Full Name  : Jason Zabawskyj
-Student ID#: 185503216
-Email      : jzabawskyj@myseneca.ca
 Section    : NBB
 
 Authenticity Declaration:
