@@ -1,7 +1,7 @@
 # BTP100 Programming Fundamentals Using C
 
 
-This repository serves as a valuable resource for students to review and reference. It contains code samples and examples that are designed to aid in understanding key concepts related to C. It is important to note that the code provided is intended solely for educational purposes and is not meant for direct copying or submission as individual work.
+This repository serves as a valuable resource for students to review and reference. It contains code in reference to workshops that are designed to aid in understanding key concepts related to C. It is important to note that the code provided is intended solely for educational purposes and is not meant for direct copying or submission as individual work.
 
 **Usage Guidelines:**
 
