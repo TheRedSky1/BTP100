@@ -1,7 +1,6 @@
 /*/////////////////////////////////////////////////////////////////////////
                           Workshop - #2 (P2)
 Full Name  : Jason Zabawskyj
-Section    : NBB
 
 Authenticity Declaration:
 
