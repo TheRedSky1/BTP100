@@ -2,7 +2,6 @@
 *****************************************************************************
                           Workshop - #4 (P2)
 Full Name  : Jason Zabawskyj
-Section    : NBB
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
