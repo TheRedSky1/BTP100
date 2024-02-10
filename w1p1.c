@@ -1,9 +1,7 @@
 /*
 
 ###########################################################################
-
-							  Reflection
-							 Workshop - #1
+                          Workshop - #2 (P2)
 Full Name  : Jason Zabawskyj
 
 Authenticity Declaration:
