@@ -1,10 +1,6 @@
 /*/////////////////////////////////////////////////////////////////////////
                           Workshop - #2 (P2)
 Full Name  : Jason Zabawskyj
-Student ID#: 185503216
-Email      : jzabawskyj@myseneca.ca
-Section    : NBB
-
 Authenticity Declaration:
 
 I declare this submission is the result of my own work and has not been
